@@ -351,7 +351,7 @@ The KHK reference covers:
 
 Reference:
 
-[KHK Gears – Gear Technical Reference](https://khkgears.net/gear-knowledge/gear-technical-reference/calculation-gear-dimensions/?utm_source=chatgpt.com)
+[KHK Gears – Gear Technical Reference](https://khkgears.net/gear-knowledge/gear-technical-reference/calculation-gear-dimensions)
 
 ---
 
